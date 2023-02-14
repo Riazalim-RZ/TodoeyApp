@@ -3,7 +3,7 @@ Testing App
 
 About TodoApp
 
-TodoApp is sinmple todo list app that I created in my free time, it allows the user to create task that need to be completed, edit those tasks or delete them (mark them as done).
+TodoApp is simple todo list app that I created in my free time, it allows the user to create task that need to be completed, edit those tasks or delete them (mark them as done).
 
 The database used is Realm mainly because the simple configuration it requires.
 
