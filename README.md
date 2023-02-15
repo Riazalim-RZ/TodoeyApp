@@ -13,7 +13,8 @@ Tools used -
 Xcode,
 Swift,
 RealmSwift,
-ChameleonFramework
+ChameleonFramework,
+SwipeCellKit
 
 
 
