@@ -1,7 +1,7 @@
 # TodoeyApp
-Testing App
+# My Testing App
 
-About TodoApp
+# About TodoApp
 
 TodoApp is simple todo list app that I created in my free time, it allows the user to create task that need to be completed, edit those tasks or delete them (mark them as done).
 
@@ -12,13 +12,15 @@ The database used is Realm mainly because the simple configuration it requires.
 Tools used -
 Xcode,
 Swift,
+# CocoaPods
 RealmSwift,
 ChameleonFramework,
 SwipeCellKit
 
 
+# UI View
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-15 at 11 25 28](https://user-images.githubusercontent.com/62168289/218949395-ccdcd688-4919-4914-966a-54d35b83fa1a.png)
 
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-02-15 at 11 25 42](https://user-images.githubusercontent.com/62168289/218949424-710fea22-849a-4491-8270-6150e0533e5b.png)
+https://user-images.githubusercontent.com/62168289/219335252-48f05e3e-15db-4c44-b3cd-f0f0079bc526.mp4
+
